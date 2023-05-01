@@ -14,7 +14,7 @@ npm install -g git-frameworker
 
 ## Using Git Frameworker
 
-To use Git Frameworker, simple run the command in your terminal:
+To use Git Frameworker, simply run the following command in your terminal:
 
 ```bash
 git-frameworker
